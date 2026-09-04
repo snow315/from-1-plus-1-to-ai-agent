@@ -31,14 +31,15 @@ Basic mechanisms → Neural networks → Transformer → LLM
 
 ## Current labs
 
-- [LAB-0001: How can a computer know that `1+1=2`?](../../LAB-0001/README.md)
+- [Browse all labs](../../labs/README.md)
+- [LAB-0001: How can a computer know that `1+1=2`?](../../labs/01-foundations/LAB-0001/README.md)
 
 ## Running a lab
 
 Open the lab's `README.md`, make the requested prediction, and then run its code. For example:
 
 ```powershell
-python .\LAB-0001\experiment.py
+python .\labs\01-foundations\LAB-0001\experiment.py
 ```
 
 Keep your prediction, output, and explanation. A lab is complete when you can explain why the result occurred—not merely when the code runs.

@@ -31,14 +31,15 @@
 
 ## 当前实验
 
-- [LAB-0001：计算机凭什么知道 `1+1=2`？](../../LAB-0001/README.md)
+- [浏览全部实验](../../labs/README.md)
+- [LAB-0001：计算机凭什么知道 `1+1=2`？](../../labs/01-foundations/LAB-0001/README.md)
 
 ## 如何运行
 
 进入具体实验目录，阅读其中的 `README.md`，先完成运行前预测，再按照说明执行代码。例如：
 
 ```powershell
-python .\LAB-0001\experiment.py
+python .\labs\01-foundations\LAB-0001\experiment.py
 ```
 
 建议保存自己的预测、运行输出和解释。真正的完成标准不是“代码能运行”，而是能够说明现象背后的因果关系。

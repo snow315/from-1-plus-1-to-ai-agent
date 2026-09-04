@@ -31,14 +31,15 @@
 
 ## 現在の実験
 
-- [LAB-0001：コンピューターはなぜ `1+1=2` と分かるのか？](../../LAB-0001/README.md)
+- [すべての実験を見る](../../labs/README.md)
+- [LAB-0001：コンピューターはなぜ `1+1=2` と分かるのか？](../../labs/01-foundations/LAB-0001/README.md)
 
 ## 実行方法
 
 各実験の `README.md` を読み、先に予測を書いてからコードを実行します。例：
 
 ```powershell
-python .\LAB-0001\experiment.py
+python .\labs\01-foundations\LAB-0001\experiment.py
 ```
 
 予測、実行結果、自分の説明を保存してください。コードが動いただけでなく、結果が生じた理由を説明できれば実験完了です。

@@ -49,7 +49,7 @@
 运行：
 
 ```powershell
-python .\LAB-0001\experiment.py
+python .\labs\01-foundations\LAB-0001\experiment.py
 ```
 
 脚本把状态写成 `(left, right)`：正常规则每一步从 `right` 取一根棒，放到 `left`；反事实规则则把取出的棒丢掉。

@@ -19,7 +19,8 @@ Each lab is designed around one question and one verifiable causal chain. The go
 
 ## Labs
 
-- [LAB-0001 — How can a computer know that 1 + 1 = 2?](LAB-0001/README.md)
+- [Browse all labs](labs/README.md)
+- [LAB-0001 — How can a computer know that 1 + 1 = 2?](labs/01-foundations/LAB-0001/README.md)
 
 ## Repository structure
 
@@ -30,10 +31,16 @@ Each lab is designed around one question and one verifiable causal chain. The go
 │   ├── en/
 │   ├── ja/
 │   └── zh-CN/
-└── LAB-0001/
-    ├── README.md
-    └── experiment.py
+└── labs/
+    ├── README.md                 # Searchable lab catalog
+    └── 01-foundations/           # Learning stage
+        ├── README.md             # Stage index
+        └── LAB-0001/             # Globally unique lab ID
+            ├── README.md
+            └── experiment.py
 ```
+
+Future labs follow `labs/<stage>/<LAB-ID>/`. Stage numbers preserve the learning order, while globally unique lab IDs make experiments easy to search and reference.
 
 ## Status
 
